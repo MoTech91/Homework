@@ -15,7 +15,7 @@ even_odd (5,2)
 #///////////////////////////
 #Q2.1
 def func_py (x,y):
-  for n in range (0,10):
+  for n in range (2,101):
     if n %2 == 0:
       x=[n]
     else:
